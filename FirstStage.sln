@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstStage", "FirstStage\FirstStage.csproj", "{5E820CEA-8515-485B-BA4C-F5B8B1D3AFB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiaParse", "RiaParse\RiaParse.csproj", "{A5D44CFB-8838-41F2-BA93-1CECB0D95448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E820CEA-8515-485B-BA4C-F5B8B1D3AFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E820CEA-8515-485B-BA4C-F5B8B1D3AFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E820CEA-8515-485B-BA4C-F5B8B1D3AFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E820CEA-8515-485B-BA4C-F5B8B1D3AFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D44CFB-8838-41F2-BA93-1CECB0D95448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D44CFB-8838-41F2-BA93-1CECB0D95448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D44CFB-8838-41F2-BA93-1CECB0D95448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D44CFB-8838-41F2-BA93-1CECB0D95448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58DCF5EB-C7BF-451B-8280-FE2020776DEA}
+	EndGlobalSection
+EndGlobal
